@@ -1,0 +1,6 @@
+.bash*
+.vim*
+.cache/
+.landscape/
+.motd_shown
+.profile
